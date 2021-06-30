@@ -25,9 +25,22 @@ untuk menjalankan program ini, jalankan perintah berikut
 $ python main.py
 ```
 
+# Cara Menggunakan
+
+- Klik kiri mouse: Menggambar
+- Klik kanan mouse: Menghapus gambar
+- Key: Menyimpan gambar, dengan cara menekan key pada keyboard
+  1. k: Menyimpan bangun ruang [kotak atau persegi](kotak)
+  2. l: Menyimpan bangun ruang [lingkaran](lingkaran)
+  3. s: Menyimpan bangun ruang [segitiga](segitiga)
+
 # Detail
 
-untuk detail bagaimana membuat aplikasi ini, kalian bisa menonton video tutorial saya di link [berikut](https://www.youtube.com/playlist?list=PLBDmyAHXKmoT4cuMCapfr6jrhUpIa0lbE)
+untuk detail bagaimana membuat aplikasi ini, kalian bisa menonton video tutorial di bawah:
+
+**Membuat Aplikasi Kecerdasan Buatan (AI) Yang Bisa Menebak Gambar Yang Kita Gambar**
+
+<a href="https://www.youtube.com/watch?v=HIwjAx3YI3M&list=PLBDmyAHXKmoT4cuMCapfr6jrhUpIa0lbE"><img alt="Click here for the tutorial videos" src="https://raw.githubusercontent.com/jacques-blom/recoil-design-tool/01-context/video.png" width="200" /></a>
 
 # Screenshot
 
