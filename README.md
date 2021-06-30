@@ -27,8 +27,8 @@ $ python main.py
 
 # Cara Menggunakan
 
-- Klik kiri mouse: Menggambar
-- Klik kanan mouse: Menghapus gambar
+- Klik kiri mouse: Menggambar canvas
+- Klik kanan mouse: Menghapus gambar canvas
 - Key: Menyimpan gambar, dengan cara menekan key pada keyboard
   1. k: Menyimpan bangun ruang [kotak atau persegi](kotak)
   2. l: Menyimpan bangun ruang [lingkaran](lingkaran)

@@ -6,7 +6,7 @@ from PIL import Image, ImageTk, ImageDraw
 model = AI.load_ai()
 
 window = tk.Tk()
-window.title("UTS TD - Tebak Gambar yang Kita Gambar")
+window.title("UAS TD - Tebak Gambar yang Kita Gambar")
 
 img = Image.new(mode="1", size=(500, 500), color=0)
 tkimage = ImageTk.PhotoImage(img)
